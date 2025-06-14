@@ -1,17 +1,20 @@
 # Uplift: A Full-Stack Application for Personal Growth and Well-being
 
-Welcome to Uplift, a comprehensive platform designed to empower individuals on their journey toward personal growth, mindfulness, and overall well-being. This application provides tools and resources to help users track habits, set goals, practice mindfulness, and connect with a supportive community.
+Welcome to Uplift, a comprehensive platform designed to help you maintain a healthy lifestyle through timely meal and workout reminders. This application helps you stay on track with your nutrition and fitness goals by providing smart notifications and tracking features.
 
 <img width="1262" alt="Screenshot 2025-06-14 at 5 33 46 PM" src="https://github.com/user-attachments/assets/97bea4cd-5df3-4022-b718-91001b15a723" />
 
 
 ## ✨ Features
 
-- **Habit Tracking:** Monitor and build positive habits with intuitive tracking and progress visualization.
-- **Goal Setting:** Define and achieve personal goals with a structured approach.
-- **Mindfulness Exercises:** Access guided meditations and breathing exercises to enhance focus and reduce stress.
-- **Community Support:** Connect with like-minded individuals, share progress, and offer encouragement.
-- **Personalized Insights:** Gain valuable insights into your well-being journey through data analytics.
+- **Meal Reminders:** Get timely notifications for your scheduled meals and snacks throughout the day.
+- **Workout Scheduling:** Set up and receive reminders for your workout sessions.
+- **Meal Tracking:** Log your daily meals and track your nutritional intake.
+- **Workout Logging:** Record your workout sessions and track your fitness progress.
+- **Customizable Notifications:** Set up personalized reminder preferences for both meals and workouts.
+- **Progress Dashboard:** View your meal and workout consistency over time.
+- **User Authentication:** Secure login and registration system with JWT authentication.
+- **Responsive Design:** Access the application seamlessly across desktop and mobile devices.
 
 ## 🚀 Technologies Used
 
