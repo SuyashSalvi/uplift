@@ -2,6 +2,9 @@
 
 Welcome to Uplift, a comprehensive platform designed to empower individuals on their journey toward personal growth, mindfulness, and overall well-being. This application provides tools and resources to help users track habits, set goals, practice mindfulness, and connect with a supportive community.
 
+<img width="1262" alt="Screenshot 2025-06-14 at 5 33 46 PM" src="https://github.com/user-attachments/assets/97bea4cd-5df3-4022-b718-91001b15a723" />
+
+
 ## ✨ Features
 
 - **Habit Tracking:** Monitor and build positive habits with intuitive tracking and progress visualization.
